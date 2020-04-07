@@ -34,4 +34,4 @@ files, it will automatically build your project and update your browser without 
 * [Markdown Cheat Sheet Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Project in BrowserSync
-![](src/img/Screen Shot 2020-04-07 at 1.24.41 PM.png)
+![Project in Browsersync](screenshots/browsersync.png)
